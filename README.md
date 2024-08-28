@@ -3,18 +3,31 @@ My name is Emmanuel Kusi a young talented footballer from Ghana in the West Afri
 
 ```mermaid
 mindmap
-root(my dream)
+root(My Dream)
    Football
-     win trophies
-     be famous
-     sponsorship deals
-     one of the richest african players
-     individual awards
-     advertisement deals
+     Win trophies
+     Be famous
+     Sponsorship deals
+     One of the richest african players
+     Individual awards
+     endoresments deals
   Kindness
-    help orphanage
-    help the aged
-    establish affordable schools
-
-
+    Help orphanage
+    Help the aged
+    Establish affordable schools
+    Provide good food and quality drinking water
+ Travel
+   Holland
+   Italy
+   Spain
+   Germany
+   England
+   France
+   America
+ My Role Models
+   Neymar
+   Ronaldo
+   Messi
+   Modric
+   Ronaldinho
 ```
