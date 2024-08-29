@@ -5,6 +5,19 @@ My name is Emmanuel Kusi a young talented footballer from Ghana in the West Afri
 mindmap
 root(My Dream)
    Football
+     Teams
+      Manchester City
+      Manchester United
+      Real Madrid
+      Liverpool
+       Newcastle
+      Chelsea
+      Juventus
+      Inter Milan
+      Bayern Munich
+      Dortmund
+      Wolfsburg
+      Paris Saint German
      Win trophies
      Be famous
      Sponsorship deals
