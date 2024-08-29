@@ -44,3 +44,12 @@ root(My Dream)
    Modric
    Ronaldinho
 ```
+
+```mermaid
+   pie
+      title My Dream
+      "sliceA" : 25
+      "sliceB" : 25
+      "sliceC" : 25
+      "sliceD" : 25
+```
