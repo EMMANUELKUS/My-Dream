@@ -6,13 +6,13 @@ My name is Emmanuel Kusi a young talented footballer from Ghana in West Africa. 
 ```mermaid
 mindmap
 root(My Dream)
-   Football
-     Teams
+  Football
+    Teams
       Manchester City
       Manchester United
       Real Madrid
       Liverpool
-       Newcastle
+      Newcastle
       Chelsea
       Juventus
       Inter Milan
@@ -20,12 +20,12 @@ root(My Dream)
       Dortmund
       Wolfsburg
       Paris Saint German
-     Win trophies
-     Be famous
-     Sponsorship deals
-     One of the richest african players
-     Individual awards
-     endoresments deals
+    Win trophies
+    Be famous
+    Sponsorship deals
+    One of the richest african players
+    Individual awards
+    endoresments deals
   Kindness
     Help orphanage
     Help the aged
