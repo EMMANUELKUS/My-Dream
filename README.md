@@ -55,3 +55,10 @@ root(My Dream)
       "sliceC" : 25
       "sliceD" : 25
 ```
+![a photo of emmanuel playing football in a yellow jersey](football1.jpeg)
+
+![emmanuel kusi playing football in a yellow jersey](football2.jpeg)
+
+![ghanaian footballer emmanuel kusi](football3.jpeg)
+
+![a young talented footballer emmanuel kusi](football4.jpeg)
